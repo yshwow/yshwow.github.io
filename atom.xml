@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>NULL</title>
+  <title>暂时还没想好什么名字就随便取了一个</title>
   
   
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-02-04T08:45:51.174Z</updated>
+  <updated>2023-04-23T16:54:16.363Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>怪猎世界dlc解锁简单教程</title>
+    <link href="http://example.com/2023/04/24/monster/"/>
+    <id>http://example.com/2023/04/24/monster/</id>
+    <published>2023-04-23T16:35:22.276Z</published>
+    <updated>2023-04-23T16:54:16.363Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="1-打开游戏根目录"><a href="#1-打开游戏根目录" class="headerlink" title="1.打开游戏根目录"></a>1.打开游戏根目录</h1><p><img src="/images/m1.png" alt="tupian"><br>右键库里的游戏，选择管理—&gt;浏览本地文件</p><p>然后你会看到这个（不同的windows系统可能会略有差异，但都差不多）<br><img src="/images/m2.png" alt="tupian"><br>然后你就可以先把这个根目录放着，进行下一步</p><h1 id="2-解压dlc补丁"><a href="#2-解压dlc补丁" class="headerlink" title="2.解压dlc补丁"></a>2.解压dlc补丁</h1><p>这一步需要你打开压缩包进行解压，因解压软件不同会略有差异，但本质上步骤是共通的，不难<br>这里点击 解压<br><img src="/images/m3.png" alt="tupian"><br>解压路径选择桌面，然后点击确认<br><img src="/images/m4.png" alt="tupian"></p><p>解压完成后桌面会多了一个对应的文件，打开即可<br><img src="/images/m5.png" alt="tupian"></p><h1 id="3-放入文件"><a href="#3-放入文件" class="headerlink" title="3.放入文件"></a>3.放入文件</h1><p>现在已经打开了两个文件夹<br><img src="/images/m6.png" alt="tupian"><br>全选中左边的（文件比较少的那个），拖到右边的文件夹（其实就是复制粘贴）<br><img src="/images/m7.png" alt="tupian"><br>全部替换,然后就完成了，可以关闭所有窗口进游戏了</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;1-打开游戏根目录&quot;&gt;&lt;a href=&quot;#1-打开游戏根目录&quot; class=&quot;headerlink&quot; title=&quot;1.打开游戏根目录&quot;&gt;&lt;/a&gt;1.打开游戏根目录&lt;/h1&gt;&lt;p&gt;&lt;img src=&quot;/images/m1.png&quot; alt=&quot;tupian&quot;&gt;&lt;br</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
